@@ -11,8 +11,45 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `💖hello,i'm ᵏⁱⁿᵍ ʸᵃˢʰⁱʸᵃwhatsapp user bot💖
+
+im alive now!😈
+how can i help you😴
+type .menu to get command list💝
+type .alive to get alive msg😴
+
+❯ DON.T DISEPENSABLE WORK TO USE BOT🚫🔞
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ
+╠══════════════⦂⦁▹➤
+❯ කමාන්ඩ් ගැන දැන ගන්න [ .menu ] එවන්න.🌼̠̠̠⃝💎̥̥̥
+╠══════════════⦂⦁▹➤
+❯ කමාන්ඩ් දෙන්න කලින් ( . ) එකක් ටයිප් කරන්න.💎̥̥̥̏̅̅̅̅̅⃟🍭
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ 
+╠══════════════⦂⦁▹➤
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ
+╠══════════════⦂⦁▹➤
+
+🍃🍃🍃🍃🍃🍃🍃🍃🍃
+
+╠══════════════⦂⦁▹➤
+දැන් ඉතින් ඔය ලමයි කාල බීලද ඉන්නෙ🙃
+╠══════════════⦂⦁▹➤
+🍂🍂🍂🍂🍂🍂🍂🍂🍂
+╠══════════════⦂⦁▹➤
+දැන් අර මන් කියපු විදිහට ටයිප් කල්ල ඒකෙ තියෙන කමාන්ඩ් පාවිච්චි කරන්න හරිද.♥
+╠══════════════⦂⦁▹➤
+නිකාන් බොරුවට බොට්ව පාවිච්චි කරන්න එපා.අනික අනවශ්‍ය වීඩියෝ ස්ටිකර් ගන්නත් පවිච්චි කරන්න එපා💖
+╠══════════════⦂⦁▹➤
+මන් කියපු විදිහට වැඩේ කරන්න ඕන හරිද☘
+  ඒනම් කොල්ලො අපි ගියා🙃
+╠══════════════⦂⦁▹➤
+     ╠══════════════⦂⦁▹➤
+         මම යෝශිත දිල්මිත්
+🍂...genarated by king yashiya...🍂
+╠══════════════⦂⦁▹➤` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,14 +66,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94775013191'] // owner number
+global.ownername = "king yashiya❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "Srilanka, galle, poddala" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://telegra.ph/file/197b502dea502b4e31568.jpg` // alive picture \\ use "https://telegra.ph/" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -47,16 +84,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94775013191']
+global.ownertag = '+94775013191' //your tag number
+global.botname = 'King Yashiya - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ i.m yoshitha dilmith ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94775013191'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
